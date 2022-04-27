@@ -17,7 +17,7 @@ public class Application {
 		PhoneNumberCheck phoneNumberCheck = new PhoneNumberCheck();
 		int number = 8733;
 		//Can use the Scanner to take inputs from user
-		// Scanner myObj = new Scanner(System.in);
+		//Scanner myObj = Integer.parseInt(myObj.nextLine());  Used Parse Int to take integer 
 		//int number = myObj.nextLine();  // Read user input
 		// number = scanner.input
 
